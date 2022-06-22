@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruvvishnoi136
-- 👀 I’m interested in writing Algorithm
-- 🌱 I’m currently trying to learning different algorithm
+- 👀 I Love to code,
+- 🌱 I’m currently trying to learning different Algorithm
 - 📫 How to reach me dhruvvishnoi136@gmail.com
 
 <!---
